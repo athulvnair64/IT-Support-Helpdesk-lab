@@ -48,7 +48,6 @@ This project demonstrates hands-on experience in setting up virtual machines and
 - Slow system performance
 - Missing network adapter
 - Windows update delays
-- Screen resolution issues
 - Keyboard and mouse capture problems
 
 ## Challenges Faced
